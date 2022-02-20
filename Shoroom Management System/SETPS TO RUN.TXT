@@ -1,0 +1,5 @@
+Step 1: Start Xampp Server
+Step 2: Unzip the File and Copy Unzip folder and paste it in htdocs location 
+Setp 3: Vist phpmyadmin command "localhost/phpmyadmin"
+Setp 4: Create a database with showroom and import with database file {db folder}
+setp 5: go to browser and type http://localhost/Shoroom%20Management%20System/

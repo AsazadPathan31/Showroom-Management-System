@@ -1,0 +1,36 @@
+#galid
+{
+	box-shadow:2px 2px 2px 2px black;
+
+	width:200px; 
+
+	height:200px;
+
+	padding:4px;
+
+	margin:20px;
+
+	border-radius:10px;
+
+
+		
+}
+
+a
+{
+	text-decoration:none;
+}
+
+#paragal
+{
+	font-size: 20px;
+
+	padding:10px;
+
+	margin:20px;
+
+	margin-top:0px;
+
+	margin-left:40px;
+	
+}
